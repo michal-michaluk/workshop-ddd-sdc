@@ -1,0 +1,2 @@
+rootProject.name = 'operations-moneytransfer'
+include "operations-moneytransfer-model"

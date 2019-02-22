@@ -1,2 +1,2 @@
-# ddd-workshop
-Materials for our DDD training
+# Domain-Driven Design
+Materials for our training
